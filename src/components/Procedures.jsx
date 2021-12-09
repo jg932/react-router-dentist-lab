@@ -4,7 +4,7 @@ const Procedures = () => {
     return (
       <div>
         <h1>Procedures</h1>
-        <p>
+        <p> 
           Here at Dentist Office we provide a wide variety of procedures. We
           accept all sorts of insurance and have competitive uninsured payment
           plans. Find the service you need and visit our contact page to find
